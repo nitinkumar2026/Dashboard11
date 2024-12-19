@@ -17,14 +17,12 @@ cover and you are good to go!
 
 ### 🎉 [NEW] Horizon UI Components
 All the main components from both versions, this will help you to see and interact with all & the latest added components of Horizon (also, new components are on the way, stay tuned)! ⚡️
-<a href="https://horizon-ui.com/components/?ref=readme-horizon" target="_blank">See all components</a>
 
 
-### Documentation
 
-Each element is well presented in a very complex documentation. You can read
-more about the <a href="https://horizon-ui.com/documentation/docs/introduction?ref=readme-horizon" target="_blank">documentation
-here.</a>
+
+
+
 
 ### Quick Start
 
